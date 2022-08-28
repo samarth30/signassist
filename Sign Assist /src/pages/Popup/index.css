@@ -1,0 +1,27 @@
+body {
+  width: 300px;
+  height: 260px;
+  margin: 0;
+  background: #1d2443;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+    /* font-family: "HK Grotesk"; */
+    /* font-family: 'Bungee Inline', cursive; */
+  font-family: 'BhuTuka Expanded One', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  position: relative;
+}
+
+code {
+  /* font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace; */
+    font-family: 'BhuTuka Expanded One', cursive;
+}
+
+/* @font-face {
+  font-family: "HK Grotesk";
+  src: local("HK Grotesk"), url("../../assets/fonts/hk-grotesk.ttf");
+  } */

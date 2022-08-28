@@ -1,0 +1,39 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "npx nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethereumjs/tx": "^3.5.2",
+    "@ethersproject/abi": "^5.1.0",
+    "@uniswap/sdk": "^3.0.3",
+    "axios": "^0.27.2",
+    "bignumber.js": "^9.0.1",
+    "body-parser": "^1.20.0",
+    "compress-base64": "^1.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "ethereumjs-util": "^7.1.5",
+    "ethers": "^5.0.21",
+    "express": "^4.17.1",
+    "lodash.flatmap": "^4.5.0",
+    "memo": "^1.0.1",
+    "mixpanel": "^0.17.0",
+    "moment": "^2.29.1",
+    "mongodb": "^4.8.1",
+    "mongoose": "^6.5.0",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^3.2.6",
+    "quickswap-sdk": "^3.0.8",
+    "request": "^2.88.2",
+    "web3": "^1.7.4"
+  }
+}
